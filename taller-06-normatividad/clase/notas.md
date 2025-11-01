@@ -1,7 +1,7 @@
 # 🗒️ Registro de Trabajo en Clase - Taller 6
 
 ## 📆 Fecha de la sesión
-_25/10/2025._
+_25/10/2025_
 
 ## 👥 Integrantes presentes
 - Juan David Cetina Gómez
@@ -32,15 +32,15 @@ Durante la sesión se avanzó en la construcción del checklist y en la evaluaci
 
 | Nº | Categoría | Criterio de Cumplimiento | Nivel de Cumplimiento | Evidencia / Justificación | Recomendación |
 |---|-----------|-------------------------|----------------------|--------------------------|---------------|
-| 1 | Finalidad del Tratamiento | Los datos se usan para trámites legítimos del Estado, tales como identidad, salud, impuestos y derechos civiles | ✅ Alto | GobData únicamente permite trámites asociados a obligaciones legales del ciudadano, en este caso identidad, salud e impuestos. Lo que define una finalidad concreta y de interés público | Publicar una relación de finalidades por entidad responsable para mayor transparencia |
-| 2 | Protección de Datos Sensibles | El sistema reconoce y maneja datos sensibles como historias médicas o antecedentes de clientes | ✅ Alto | La plataforma integra servicios críticos como historia clínica y certificados judiciales, según las finalidades mencionadas. Lo que obliga a adoptar controles especiales de seguridad y confidencialidad conforme Ley 1581 | Implementar esquemas Zero Trust y monitoreo de accesos privilegiados |
-| 3 | Seguridad y Control Normativo | Se declara que se está sujeto a normativas como la Ley 1581 de 2012 e ISO 27001 | ✅ Alto | El sistema maneja infraestructura estatal y procesos de autenticación centralizados, alineados a SGSI gubernamental y políticas MinTIC | Evidenciar auditorías internas y plan de mejora continua de seguridad |
-| 4 | Trazabilidad Operativa | Se tiene registro de interacciones con entidades públicas | ⚠ Parcial | Al ser una plataforma transaccional interinstitucional, requiere registrar cada acceso y modificación. Sin embargo, la trazabilidad no siempre es accesible para el ciudadano | Habilitar historial visible al titular de todos los accesos a su información, garantizando trazabilidad |
-| 5 | Autenticación | Se implementan mecanismos de autenticación de usuarios | ⚠ Parcial | Se utiliza validación documental, pero se requiere fortalecer autenticación según criticidad del trámite, dado que se manejan datos sensibles | Integrar autenticación multifactor y control de roles con privilegios mínimos |
-| 6 | Clasificación de Datos | Se realiza diferenciación entre datos personales y sensibles para su respectivo tratamiento | ⚠ Parcial | Se gestionan distintos niveles de criticidad, pero no se evidencia etiquetado interno ni segmentación estricta por nivel de sensibilidad, teniendo todos los datos centralizados | Implementar clasificación por capas, según la categoría de los trámites en línea y los datos tratados |
-| 7 | Consentimiento Informado | Realizar recolección libre, previa y específica del titular antes del tratamiento | ❌ Bajo | Muchos datos son tratados bajo obligatoriedad legal sin consentimiento diferenciado por servicio, generando riesgo en usos adicionales o interoperabilidad, no teniendo consentimiento informado para el tratamiento de datos por parte de terceros | Incorporar consentimiento granular por entidad y tipo de dato, garantizando la recolección de datos teniendo autorización previa para el manejo de datos |
-| 8 | Derechos del Titular (ARCO) | Mecanismos implementados para acceder, rectificar, actualizar o suprimir datos según normativas | ❌ Bajo | El ciudadano depende de cada entidad dueña del dato para modificaciones, pero GobData no provee una ruta unificada para ejercer derechos de los titulares de la información | Integrar portal ARCO centralizado con trazabilidad completa, garantizando información verídica y autorizada ajustada a las normativas |
-| 9 | Retención y Supresión | Política de retención según finalidad y supresión o anonimización de datos | ❌ Bajo | La larga persistencia de datos y documentos dentro del portal sin depuración pone en riesgo su veracidad y exposición a brechas, sin tener una vida útil y supresión de información al finalizarla | Automatizar la eliminación o anonimización al cumplirse la finalidad legal, según se establezca en la normativa |
+| 1 | Finalidad del Tratamiento | Los datos se usan para trámites legítimos del Estado, tales como identidad, salud, impuestos y derechos civiles | Alto | GobData únicamente permite trámites asociados a obligaciones legales del ciudadano, en este caso identidad, salud e impuestos. Lo que define una finalidad concreta y de interés público | Publicar una relación de finalidades por entidad responsable para mayor transparencia |
+| 2 | Protección de Datos Sensibles | El sistema reconoce y maneja datos sensibles como historias médicas o antecedentes de clientes | Alto | La plataforma integra servicios críticos como historia clínica y certificados judiciales, según las finalidades mencionadas. Lo que obliga a adoptar controles especiales de seguridad y confidencialidad conforme Ley 1581 | Implementar esquemas Zero Trust y monitoreo de accesos privilegiados |
+| 3 | Seguridad y Control Normativo | Se declara que se está sujeto a normativas como la Ley 1581 de 2012 e ISO 27001 | Alto | El sistema maneja infraestructura estatal y procesos de autenticación centralizados, alineados a SGSI gubernamental y políticas MinTIC | Evidenciar auditorías internas y plan de mejora continua de seguridad |
+| 4 | Trazabilidad Operativa | Se tiene registro de interacciones con entidades públicas | Parcial | Al ser una plataforma transaccional interinstitucional, requiere registrar cada acceso y modificación. Sin embargo, la trazabilidad no siempre es accesible para el ciudadano | Habilitar historial visible al titular de todos los accesos a su información, garantizando trazabilidad |
+| 5 | Autenticación | Se implementan mecanismos de autenticación de usuarios | Parcial | Se utiliza validación documental, pero se requiere fortalecer autenticación según criticidad del trámite, dado que se manejan datos sensibles | Integrar autenticación multifactor y control de roles con privilegios mínimos |
+| 6 | Clasificación de Datos | Se realiza diferenciación entre datos personales y sensibles para su respectivo tratamiento | Parcial | Se gestionan distintos niveles de criticidad, pero no se evidencia etiquetado interno ni segmentación estricta por nivel de sensibilidad, teniendo todos los datos centralizados | Implementar clasificación por capas, según la categoría de los trámites en línea y los datos tratados |
+| 7 | Consentimiento Informado | Realizar recolección libre, previa y específica del titular antes del tratamiento | Bajo | Muchos datos son tratados bajo obligatoriedad legal sin consentimiento diferenciado por servicio, generando riesgo en usos adicionales o interoperabilidad, no teniendo consentimiento informado para el tratamiento de datos por parte de terceros | Incorporar consentimiento granular por entidad y tipo de dato, garantizando la recolección de datos teniendo autorización previa para el manejo de datos |
+| 8 | Derechos del Titular (ARCO) | Mecanismos implementados para acceder, rectificar, actualizar o suprimir datos según normativas | Bajo | El ciudadano depende de cada entidad dueña del dato para modificaciones, pero GobData no provee una ruta unificada para ejercer derechos de los titulares de la información | Integrar portal ARCO centralizado con trazabilidad completa, garantizando información verídica y autorizada ajustada a las normativas |
+| 9 | Retención y Supresión | Política de retención según finalidad y supresión o anonimización de datos | Bajo | La larga persistencia de datos y documentos dentro del portal sin depuración pone en riesgo su veracidad y exposición a brechas, sin tener una vida útil y supresión de información al finalizarla | Automatizar la eliminación o anonimización al cumplirse la finalidad legal, según se establezca en la normativa |
 
 
 ## 🔁 Tareas definidas para complementar el taller
@@ -49,9 +49,9 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en Excel | Juan David Cetina Gómez y Mariana Salas Gutiérrez  | 10/08 |
-| Redacción del informe     | Ana Lucía Quintero Vargas y Mariana Salas Gutiérrez | 11/08 |
-| Investigación y referencias | Juan David Cetina Gómez | 12/08 |
+| Modelado final en Excel | Juan David Cetina Gómez y Mariana Salas Gutiérrez  | 30/10 |
+| Redacción del informe     | Ana Lucía Quintero Vargas y Mariana Salas Gutiérrez | 31/08 |
+| Investigación y referencias | Juan David Cetina Gómez | 28/08 |
 
 ---
 
