@@ -20,10 +20,7 @@ Incluya un análisis sobre:
 - **¿Cómo representa las necesidades del cliente?**
 - **¿Qué supuestos se tomaron?**
 
-## 📈 Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
-
-## 📋 Tabla de Chacklist
+## 📋 Tabla de Checklist
 
 | Nº | Categoría | Criterio de Cumplimiento | Nivel de Cumplimiento | Evidencia / Justificación | Recomendación |
 |----|------------|---------------------------|------------------------|-------------------|---------------------------|
@@ -38,17 +35,20 @@ Incluya un análisis sobre:
 | **9** | Retención y Supresión | Política de retención según finalidad y supresión o anonimización de datos | **Alto** | Zajana S.A.S. no almacena datos personales ni sensibles de forma permanente, únicamente conserva **metadatos de las consultas** realizadas (por ejemplo, si una verificación fue exitosa o no), cumpliendo con el principio de **finalidad y temporalidad** establecido en la Ley 1581 de 2012. Los datos procesados se mantienen en tránsito para generar análisis o puntajes crediticios y son eliminados una vez finaliza el proceso. Además, se cuenta con **Microsoft Purview** para aplicar políticas de retención, cifrado y acceso. | Mantener la política de no almacenamiento permanente y continuar aprovechando Purview para la aplicación automática de políticas de retención y cifrado. |
 | **10** | Auditoría | Se realizan auditorías para verificar el cumplimiento de las políticas de protección de datos personales y la efectividad de los controles de seguridad de la información | **Alto** | Zajana S.A.S. cuenta con procesos formales de **auditoría interna y externa** para garantizar el cumplimiento de normativas y mantener la certificación **ISO 27001**. Las auditorías internas son realizadas por un equipo independiente, mientras que las auditorías externas anuales con **ICONTEC** validan la conformidad del Sistema de Gestión de Seguridad de la Información (SGSI). También se apoya en consultoría legal especializada y herramientas como **Defender for Cloud** y **Sentinel (SIEM)** para monitoreo continuo y generación de evidencias de cumplimiento. | Continuar realizando auditorías periódicas y manteniendo la certificación ISO. Se sugiere conservar los reportes en Purview Compliance Manager para asegurar trazabilidad y evidencias históricas. |
 
-
 ## 🔍 Investigación complementaria
-### Tema investigado:
-(Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
+### Tema investigado: 
+Leyes de seguridad de la información
 
 ### Resumen:
-Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
+En [1] se examina el desarrollo normativo y jurisprudencial del derecho fundamental al Habeas Data en Colombia, enfatizando su evolución desde la Constitución Política de 1991 hasta la Ley Estatutaria 1581 de 2012, la cual establece el marco general para la protección de los datos personales. Los autores destacan que este derecho busca garantizar la autodeterminación informativa del ciudadano frente al uso indebido de su información por entidades públicas o privadas, promoviendo un equilibrio entre el acceso a la información y la protección de la intimidad personal. Además, el texto analiza los principales avances normativos, como la creación de la Superintendencia Delegada para la Protección de Datos Personales, y resalta la necesidad de fortalecer mecanismos de control y sanción ante el creciente impacto de las tecnologías de la información en la vida privada.
+
+Por otro lado, en [2] se muestra un análisis teórico y jurídico profundo sobre el Habeas Data como derecho fundamental en Colombia, incorporado en la Constitución de 1991. El autor explica que este derecho permite a las personas conocer, actualizar y rectificar la información que sobre ellas reposa en archivos públicos o privados, siendo una respuesta del derecho frente al poder creciente de la tecnología y el tratamiento automatizado de datos. Cifuentes advierte que la informatización del sujeto humano, al fragmentarlo en datos, supone un desafío ético y político para el derecho constitucional, que debe equilibrar la libertad individual con el control del poder informático. Además, detalla los principales fallos de la Corte Constitucional (como la SU-082 de 1995) que consolidan la noción de autodeterminación informativa y establecen el Habeas Data como un derecho autónomo e inmediato, incluso sin ley estatutaria.
+
+En el caso del taller, la reflexión sobre las normativas adquiere relevancia al mostrar cómo el marco jurídico, como la Ley 1581 de 2012 y el derecho al Habeas Data, no solo define obligaciones legales, sino que también orienta las buenas prácticas empresariales en el manejo de la información. Aplicar estas normas en un contexto real, como el de Zajana SAS, permite comprender su función preventiva y protectora, garantizando que las decisiones corporativas se desarrollen bajo principios de legalidad, transparencia y respeto por los derechos de las personas frente al uso de sus datos.
 
 ## 📚 Referencias
-- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
-- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
+- [1] C. Pérez Álvarez, D. Acosta Giraldo y L. F. Arboleda Vargas, “Ley Estatutaria 1581 de 2012,” Trabajo de Grado, Instituto Universitario de Envigado, 2015.
+- [2] E. Cifuentes Muñoz, “El Hábeas Data en Colombia,” Derecho PUCP, vol. 51, pp. 115–144, 1997.
 
 ---
 
