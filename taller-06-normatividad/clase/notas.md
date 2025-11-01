@@ -12,8 +12,7 @@ _25/10/2025_
 
 Durante la sesión se trabajó en el análisis del caso base GobData, un portal estatal de atención digital del gobierno dedicado a trámites ciudadanos. El objetivo principal fue identificar normativas aplicables y definir un checklist preliminar para el manejo de información sensible en sectores regulados. Se revisaron normas sectoriales específicas de Salud, Educación y Gobierno Digital, complementarias a las leyes generales de protección de datos, así como referencias internacionales como la ISO/IEC 27001:2022 y normativas locales relevantes, incluyendo lineamientos de MinSalud, MinTIC, SuperSalud y SFC.
 
-Durante la sesión, el equipo avanzó en la construcción del checklist, organizando la información de manera estructurada y documentando criterios de cumplimiento, nivel y evidencia basada en la normativa identificada. Se sentaron así las bases para continuar el análisis fuera de clase, donde se completará el registro de brechas y hallazgos relevantes y se afinarán las recomendaciones por cada categoría.
-
+En resumen, el equipo avanzó en la construcción del checklist, organizando la información de manera estructurada y documentando criterios de cumplimiento, nivel y evidencia basada en la normativa identificada. Se sentaron así las bases para continuar el análisis fuera de clase, donde se completará el registro de brechas y hallazgos relevantes y se afinarán las recomendaciones por cada categoría.
 
 - **¿Qué se discutió con el equipo?**
 
