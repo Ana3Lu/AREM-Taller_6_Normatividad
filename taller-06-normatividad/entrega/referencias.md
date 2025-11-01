@@ -3,16 +3,14 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller X - [Nombre del Taller]_
+_Taller 6 - Normatividad_
 
 ---
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+1. C. Pérez Álvarez, D. Acosta Giraldo y L. F. Arboleda Vargas, “Ley Estatutaria 1581 de 2012,” Trabajo de Grado, Instituto Universitario de Envigado, 2015.
+2. E. Cifuentes Muñoz, “El Hábeas Data en Colombia,” Derecho PUCP, vol. 51, pp. 115–144, 1997.
 
 ---
 
