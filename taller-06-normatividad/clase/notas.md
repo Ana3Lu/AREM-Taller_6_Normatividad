@@ -42,6 +42,18 @@ Durante la sesión se avanzó en la construcción del checklist y en la evaluaci
 | 8 | Derechos del Titular (ARCO) | Mecanismos implementados para acceder, rectificar, actualizar o suprimir datos según normativas | Bajo | El ciudadano depende de cada entidad dueña del dato para modificaciones, pero GobData no provee una ruta unificada para ejercer derechos de los titulares de la información | Integrar portal ARCO centralizado con trazabilidad completa, garantizando información verídica y autorizada ajustada a las normativas |
 | 9 | Retención y Supresión | Política de retención según finalidad y supresión o anonimización de datos | Bajo | La larga persistencia de datos y documentos dentro del portal sin depuración pone en riesgo su veracidad y exposición a brechas, sin tener una vida útil y supresión de información al finalizarla | Automatizar la eliminación o anonimización al cumplirse la finalidad legal, según se establezca en la normativa |
 
+## ⚠️ Brechas y hallazgos relevantes identificados
+
+Durante el análisis se identificaron las siguientes brechas principales en el cumplimiento normativo del caso **GobData**, relacionadas con la protección de datos personales y el gobierno de la información en plataformas digitales estatales:
+
+| Nº | Categoría | Brecha / Hallazgo | Impacto Potencial | Recomendación general |
+|----|------------|------------------|-------------------|-----------------------|
+| 1 | **Trazabilidad Operativa** | La trazabilidad no es accesible al ciudadano y carece de transparencia en los accesos a su información. | Riesgo de pérdida de confianza y vulneración del derecho de acceso a la información personal. | Implementar un módulo de historial de accesos visible para el titular, garantizando trazabilidad y transparencia. |
+| 2 | **Autenticación** | Uso de autenticación básica sin mecanismos robustos de verificación de identidad. | Riesgo de suplantación o acceso indebido a datos sensibles. | Incorporar autenticación multifactor y control de privilegios mínimos. |
+| 3 | **Clasificación de Datos** | Ausencia de etiquetado y segmentación de la información según nivel de sensibilidad. | Riesgo de tratamiento homogéneo de datos sensibles sin controles diferenciados. | Implementar un esquema de clasificación por capas que identifique datos personales, sensibles y públicos. |
+| 4 | **Consentimiento Informado** | No existe consentimiento granular por servicio o entidad, ni registro de aceptación verificable. | Riesgo de tratamiento no autorizado y uso extendido de datos. | Diseñar un sistema de consentimiento previo, específico y verificable para cada finalidad o entidad. |
+| 5 | **Derechos del Titular (ARCO)** | Falta un canal unificado para ejercer los derechos de acceso, rectificación, actualización o supresión. | Riesgo de incumplimiento de la Ley 1581 y pérdida de trazabilidad en la atención a titulares. | Crear un portal centralizado para la gestión de derechos ARCO con trazabilidad completa. |
+| 6 | **Retención y Supresión** | No existen criterios claros de conservación ni depuración periódica de datos. | Riesgo de almacenamiento excesivo, exposición a brechas y vulneración del principio de finalidad. | Definir políticas de retención por tipo de trámite e implementar eliminación o anonimización automática. |
 
 ## 🔁 Tareas definidas para complementar el taller
 
