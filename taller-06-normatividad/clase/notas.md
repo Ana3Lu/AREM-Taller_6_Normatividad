@@ -15,16 +15,20 @@ Durante la sesión se trabajó en el análisis del caso base GobData, un portal 
 En resumen, el equipo avanzó en la construcción del checklist, organizando la información de manera estructurada y documentando criterios de cumplimiento, nivel y evidencia basada en la normativa identificada. Se sentaron así las bases para continuar el análisis fuera de clase, donde se completará el registro de brechas y hallazgos relevantes y se afinarán las recomendaciones por cada categoría.
 
 - **¿Qué se discutió con el equipo?**
-Se debatió cuáles normas y categorías eran más relevantes para el caso base y cómo organizar el análisis para cubrir todos los aspectos críticos del manejo de datos. El equipo coincidió en que el enfoque debía estar en las nueve categorías definidas: finalidad del tratamiento, protección de datos sensibles, seguridad y control normativo, trazabilidad operativa, autenticación, clasificación de datos, consentimiento informado, derechos del titular (ARCO) y retención y supresión. También se acordó cómo registrar la evidencia de cumplimiento, justificar niveles y documentar recomendaciones, dejando el espacio para registrar brechas o hallazgos en fases posteriores. Se definió la división de roles para avanzar de manera simultánea y asegurar cobertura completa de todas las categorías.
+  
+  Se debatió cuáles normas y categorías eran más relevantes para el caso base y cómo organizar el análisis para cubrir todos los aspectos críticos del manejo de datos. El equipo coincidió en que el enfoque debía estar en las nueve categorías definidas: finalidad del tratamiento, protección de datos sensibles, seguridad y control normativo, trazabilidad operativa, autenticación, clasificación de datos, consentimiento informado, derechos del titular (ARCO) y retención y supresión. También se acordó cómo registrar la evidencia de cumplimiento, justificar niveles y documentar recomendaciones, dejando el espacio para registrar brechas o hallazgos en fases posteriores. Se definió la división de roles para avanzar de manera simultánea y asegurar cobertura completa de todas las categorías.
 
 - **¿Qué decisiones de modelado se tomaron?**
-Se decidió organizar el análisis de cada categoría del checklist para identificar el nivel de cumplimiento y justificarlo con base en el tipo de datos procesados y las interacciones en la plataforma. El checklist se estructuró de manera que sirviera tanto para evaluar cumplimiento como para documentar brechas y hallazgos relevantes, dejando evidencia de dónde GobData requeriría acciones correctivas o mejoras.
+  
+  Se decidió organizar el análisis de cada categoría del checklist para identificar el nivel de cumplimiento y justificarlo con base en el tipo de datos procesados y las interacciones en la plataforma. El checklist se estructuró de manera que sirviera tanto para evaluar cumplimiento como para documentar brechas y hallazgos relevantes, dejando evidencia de dónde GobData requeriría acciones correctivas o mejoras.
 
 - **¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?**
-La principal herramienta utilizada fue Excel, que permitió documentar el checklist, organizar criterios de cumplimiento, evidencia y recomendaciones, y dejar espacio para el registro de brechas y hallazgos que se completará fuera de clase. Esta herramienta facilitó que los miembros del equipo trabajaran en paralelo de forma estructurada, sin necesidad de diagramas o modelado visual en esta fase.
+
+  La principal herramienta utilizada fue Excel, que permitió documentar el checklist, organizar criterios de cumplimiento, evidencia y recomendaciones, y dejar espacio para el registro de brechas y hallazgos que se completará fuera de clase. Esta herramienta facilitó que los miembros del equipo trabajaran en paralelo de forma estructurada, sin necesidad de diagramas o modelado visual en esta fase.
 
 - **¿Qué parte del trabajo se alcanzó a desarrollar?**
-Durante la sesión se avanzó en la construcción del checklist y en la evaluación preliminar de cada categoría según los criterios definidos, documentando nivel de cumplimiento, evidencia y recomendaciones iniciales. Se estableció la metodología para continuar el análisis fuera de clase, donde se completará el registro de brechas y hallazgos relevantes y se finalizarán las recomendaciones para cada categoría.
+
+  Durante la sesión se avanzó en la construcción del checklist y en la evaluación preliminar de cada categoría según los criterios definidos, documentando nivel de cumplimiento, evidencia y recomendaciones iniciales. Se estableció la metodología para continuar el análisis fuera de clase, donde se completará el registro de brechas y hallazgos relevantes y se finalizarán las recomendaciones para cada categoría.
 
 ## 🧩 Boceto inicial del análisis (Checklist)
 
@@ -60,8 +64,8 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
 | Modelado final en Excel | Juan David Cetina Gómez y Mariana Salas Gutiérrez  | 30/10 |
-| Redacción del informe     | Ana Lucía Quintero Vargas y Mariana Salas Gutiérrez | 31/08 |
-| Investigación y referencias | Juan David Cetina Gómez | 28/08 |
+| Redacción del informe     | Ana Lucía Quintero Vargas y Mariana Salas Gutiérrez | 28/10 |
+| Investigación y referencias | Mariana Salas Gutiérrez | 30/10 |
 
 ---
 
